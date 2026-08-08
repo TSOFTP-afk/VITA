@@ -8,7 +8,7 @@
 
 - [x] 创建 vita GitHub 仓库
 - [x] 旧 SNN 代码迁移到 `legacy/`（126 文件, 1.19MB）
-- [x] 顶层 `CMakeLists.txt` / `.gitignore` / `LICENSE` (Apache 2.0)
+- [x] 顶层 `CMakeLists.txt` / `.gitignore` / `LICENSE` (CC-BY-4.0)
 - [x] 工程化目录骨架 `src/{snn,llm,bridge,vita}/`
 - [x] 配置文件 `configs/default.yaml`
 - [x] 全新 README，告别 SNN/STDP 研究阶段

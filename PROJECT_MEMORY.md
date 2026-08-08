@@ -95,5 +95,5 @@
 
 ## 联系点
 
-- GitHub 仓库：私有（不开源），用 `gh` CLI 操作
+- GitHub 仓库：公开（public），用 `gh` CLI 操作
 - 旧 SNN 代码：`legacy/` 目录（已清理大文件，保留代码参考）

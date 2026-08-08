@@ -265,8 +265,8 @@ Affect must not be computed externally by a "concentration simulator" and stuffe
 
 ## 许可 / License
 
-Apache License 2.0 — 见 [LICENSE](./LICENSE)。`legacy/` 旧代码继承自上一代项目（原 CC BY 4.0），新代码采用 Apache 2.0。
-Apache License 2.0 — see [LICENSE](./LICENSE). `legacy/` code inherits from the previous project (originally CC BY 4.0); new code is Apache 2.0.
+CC-BY-4.0 — 见 [LICENSE](./LICENSE)（仅需署名即可）。`legacy/` 旧代码继承自上一代项目（原 CC BY 4.0），统一采用 CC-BY-4.0。
+CC-BY-4.0 — see [LICENSE](./LICENSE) (attribution only). `legacy/` code inherits from the previous project (originally CC BY 4.0); the whole project uses CC-BY-4.0.
 
 ## 致谢 / Acknowledgements
 
